@@ -1,0 +1,11 @@
+ HTML5
+ <html>
+ <!Doctype html><!--doc... HTML>
+ <html lang="es">
+    <head>
+    <title> hola mundo </title>
+    meta name="description" content="es un hola mundo">
+    meta name="keyboards" content="hola html mundo">
+</head>
+
+</html> 
